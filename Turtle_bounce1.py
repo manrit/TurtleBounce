@@ -1,6 +1,5 @@
 # BY MANRIT KAUR 
 # MAY 20 2022
-# Turtle Bounce Assignment
 from tabnanny import check
 import turtle
 import random
